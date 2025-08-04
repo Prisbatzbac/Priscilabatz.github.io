@@ -70,7 +70,7 @@ body{
 
 
 .nav__links{
-    color: hsl(0, 0%, 100%);
+    color: hsla(0, 0%, 100%, 0.988);
     text-decoration: none;
 }
 
@@ -219,7 +219,7 @@ body{
     --color-price: #1D293F;
     --bg-cta: #fff;
     --color-cta: #5454d4;
-    --color-items: #696871;
+    --color-items: #68636e;
 }
 
 .price__element--best{
@@ -687,7 +687,7 @@ body {
 
 h1 {
   text-align: center;
-  color: #444;
+  color: #fff;
 }
 
 .galeria {
